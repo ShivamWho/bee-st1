@@ -1,0 +1,15 @@
+.nav{
+    position: fixed;
+    background-color: #112031;
+    width: 100%; 
+    z-index: 1;
+    letter-spacing: 5px;
+}
+
+.navCont{
+    color: #777;
+}
+
+.navCont:hover{
+    color: #1abc9c;
+}
